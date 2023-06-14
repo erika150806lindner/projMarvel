@@ -1,0 +1,27 @@
+body{
+    background-image: url(/img/gamora1.jpg) ;
+    background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover;
+  color: rgb(255, 255, 255);
+}
+h1{
+    color: rgb(76, 9, 138);
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 25pt
+     ;
+    text-align: center;
+}
+h2{
+    color:rgb(255, 255, 255);
+    text-align: center;
+    font-size: 20pt;
+}
+p{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-weight: bolder;
+    margin: 5px 50px;
+    padding: 30px;
+    font-size: 15pt;
+}

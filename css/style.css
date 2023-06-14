@@ -1,0 +1,16 @@
+
+body{
+    background-color:rgb(4, 101, 4);
+color: aliceblue;
+margin: 10px 100px 10px 100px;
+text-align: start;
+font-size: 20px;
+}
+
+h1{ 
+    color: rgb(76, 9, 138);
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 50px;
+    text-align: center;
+
+}
