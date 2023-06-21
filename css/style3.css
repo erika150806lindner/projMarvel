@@ -1,0 +1,56 @@
+p {
+    text-align: center;
+    color: rgb(76, 9, 138);
+    text-align: center;
+    font-weight: bolder;
+    margin: 5px 50px;
+    padding: 30px;
+    font-size: 15pt;
+}
+
+a:link {
+    color: rgb(138, 59, 212);
+    background-color: rgb(255, 255, 255);
+}
+
+a:hover {
+    color: rgb(76, 9, 138);
+    background-color: black;
+}
+
+body {
+    background-color: rgb(76, 9, 138);
+    color: azure;
+    font-size: 18pt;
+    margin: 10px;
+}
+
+h1 {
+    color: rgb(4, 9, 4);
+    text-align: center;
+    border: 30px solid rgb(4, 101, 4);
+    background-color: rgb(255, 255, 255);
+    transition: 1s; //determina o tempo de transição para volta do estado normal font-size: 40px;
+    cursor: pointer;
+}
+
+h1:hover {
+    //estilos que são adicionados ao passar o cursor no elemento
+    border: 30px solid blue;
+    background-color: rgb(76, 9, 138);
+    transition: 1s; //determina o tempo de transição para aplicação dos estilos
+}
+
+h2 {
+    text-align: center;
+    color: azure;
+    text-decoration: none;
+    margin: 50px;
+    border: solid rgb(4, 101, 4);
+    background-color: rgb(4, 101, 4);
+}
+
+h3 {
+    color: azure;
+    text-align: center;
+}
